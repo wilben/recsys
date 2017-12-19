@@ -1,5 +1,6 @@
 # recsys
 融合评论文本的推荐模型
+
 ![image](https://github.com/blazewint3r/recsys/blob/master/%E5%9B%BE%E7%89%871.png)
 
 上图是本文提出的深度网络的简单示意图。
